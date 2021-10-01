@@ -23,4 +23,4 @@ step is towards learning React Native for cross platform application development
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/1amsv)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/1amsv)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tgoel5884&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=1amsv&show_icons=true)

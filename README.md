@@ -19,8 +19,9 @@ step is towards learning React Native for cross platform application development
 - 💬 Ask me about anything.
 
 # 📫 Reach me at:
+[<img src=https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg alt='mail' height='40'>](https://mail.google.com/mail/?to=shaswatchat@gmail.com&subject=Hey#compose) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/1amsv/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/1amsv)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/1amsv)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/1amsv/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/1amsv/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=1amsv&show_icons=true)

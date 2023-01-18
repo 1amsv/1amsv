@@ -3,7 +3,7 @@
 <!--
 **1amsv/1amsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I'm a Pursuing Undergraduate Student in Computer Science Engineering (CSE) with
+I'm a Graduate Computer Science Engineer with
 passion for new technologies, and always learning to add new skills in my skill set.
 I am a hardworking person but a believer in working smart. Always prepared to face
 any challenges in my life, and I see them as opportunities that give me a chance to
@@ -12,8 +12,7 @@ concepts and technologies related to Data Structure and Algorithms as well as in
 Java. I am also an active competitive coder, and fond of Problem Solving. My next
 step is towards learning React Native for cross platform application development.
 
-- 🔭 I’m currently working on creating applications with Java. 
-- 🌱 I’m currently learning Cloud Computing.
+- 🔭 I’m currently working on creating applications with Java and Angular. 
 - 👯 I’m looking to collaborate on any Open Source Project.
 - 🤔 I’m looking for help with Application Development.
 - 💬 Ask me about anything.
